@@ -1,0 +1,7 @@
+appium_address = ''
+baseurl = ''
+host = ''
+platform_name = ''
+platform_version = ''
+device_name = 'emulator-5554'
+appium_Version = '2.0'
